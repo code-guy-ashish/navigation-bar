@@ -32,5 +32,8 @@ JavaScript: To add interactivity and dynamic behavior to the navigation bar, suc
 Overall, the Responsive Navigation Bar project seeks to enhance the user experience on websites by providing a visually appealing, user-friendly, and adaptable navigation system that works flawlessly across different devices. By combining HTML, CSS, and JavaScript, this project offers a valuable learning experience for web developers interested in improving their front-end skills and building modern, responsive web interfaces.
 
 
+<img width="960" alt="image" src="https://github.com/code-guy-ashish/navigation-bar/assets/60579703/7c873912-2328-4339-97eb-087aef1d8d58">
+
+<img width="377" alt="image" src="https://github.com/code-guy-ashish/navigation-bar/assets/60579703/479234b6-fc8f-43fd-b8bb-2e58c5cf4bc1">
 
 
